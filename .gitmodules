@@ -1,0 +1,3 @@
+[submodule "literature-notes"]
+	path = literature-notes
+	url = git@github.com-serious:MaxCoetzee/auto-cdml-literature-notes.git
